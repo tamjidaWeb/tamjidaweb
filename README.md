@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Tamjida Akter
 #### I am Programmer - Coder - Developer
-![I am Programmer - Coder - Developer]
 
 Skills: TAILWIND / JS / HTML / CSS
 
